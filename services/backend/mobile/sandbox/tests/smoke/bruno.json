@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "loyalty-smoke",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
